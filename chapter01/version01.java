@@ -1,10 +1,10 @@
 // 쿠쿠루삥뽕
 package chapter01;
 
-public class version01 {
+public class Version01 {
     
-    public version01() {
-        System.out.println("기존 파일 수정");
+    public Version01() {
+        System.out.println("Version01 수정");
     }
 
 }
